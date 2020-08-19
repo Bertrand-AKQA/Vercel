@@ -1,0 +1,5 @@
+{
+    "routes": [
+      { "src": "https://vercel-beta.vercel.app/", "dest": "https://www.google.com" }
+    ]
+  }
